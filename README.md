@@ -1,0 +1,1 @@
+gabosoft_pos_access_right
